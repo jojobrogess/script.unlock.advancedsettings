@@ -5,7 +5,7 @@ edit them through the System menu of Kodi.
 
 ## Background
 Kodi mediacenter is highly customizable system and has tons of settings,
-which can be only changed by creating [advancedsewttings.xml](https://kodi.wiki/view/Advancedsettings.xml) file in the 
+which can be only changed by creating [advancedsettings.xml](https://kodi.wiki/view/Advancedsettings.xml) file in the 
 **userdata** folder. Changing these parameters requires manual authoring of 
 the XML, which is error-prone and not always convenient.
 
